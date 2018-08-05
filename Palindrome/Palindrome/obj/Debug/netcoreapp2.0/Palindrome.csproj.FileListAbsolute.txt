@@ -1,0 +1,11 @@
+C:\GitHub\TestDome\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.deps.json
+C:\GitHub\TestDome\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.runtimeconfig.json
+C:\GitHub\TestDome\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.runtimeconfig.dev.json
+C:\GitHub\TestDome\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.dll
+C:\GitHub\TestDome\Palindrome\Palindrome\bin\Debug\netcoreapp2.0\Palindrome.pdb
+C:\GitHub\TestDome\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.csprojResolveAssemblyReference.cache
+C:\GitHub\TestDome\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\GitHub\TestDome\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.AssemblyInfoInputs.cache
+C:\GitHub\TestDome\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.AssemblyInfo.cs
+C:\GitHub\TestDome\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.dll
+C:\GitHub\TestDome\Palindrome\Palindrome\obj\Debug\netcoreapp2.0\Palindrome.pdb
