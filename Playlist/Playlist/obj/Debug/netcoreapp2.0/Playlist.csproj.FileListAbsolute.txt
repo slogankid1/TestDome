@@ -1,0 +1,11 @@
+C:\GitHub\TestDome\Playlist\Playlist\bin\Debug\netcoreapp2.0\Playlist.deps.json
+C:\GitHub\TestDome\Playlist\Playlist\bin\Debug\netcoreapp2.0\Playlist.runtimeconfig.json
+C:\GitHub\TestDome\Playlist\Playlist\bin\Debug\netcoreapp2.0\Playlist.runtimeconfig.dev.json
+C:\GitHub\TestDome\Playlist\Playlist\bin\Debug\netcoreapp2.0\Playlist.dll
+C:\GitHub\TestDome\Playlist\Playlist\bin\Debug\netcoreapp2.0\Playlist.pdb
+C:\GitHub\TestDome\Playlist\Playlist\obj\Debug\netcoreapp2.0\Playlist.csprojResolveAssemblyReference.cache
+C:\GitHub\TestDome\Playlist\Playlist\obj\Debug\netcoreapp2.0\Playlist.csproj.CoreCompileInputs.cache
+C:\GitHub\TestDome\Playlist\Playlist\obj\Debug\netcoreapp2.0\Playlist.AssemblyInfoInputs.cache
+C:\GitHub\TestDome\Playlist\Playlist\obj\Debug\netcoreapp2.0\Playlist.AssemblyInfo.cs
+C:\GitHub\TestDome\Playlist\Playlist\obj\Debug\netcoreapp2.0\Playlist.dll
+C:\GitHub\TestDome\Playlist\Playlist\obj\Debug\netcoreapp2.0\Playlist.pdb
