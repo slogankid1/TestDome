@@ -1,0 +1,11 @@
+C:\GitHub\TestDome\UserInput\UserInput\bin\Debug\netcoreapp2.0\UserInput.deps.json
+C:\GitHub\TestDome\UserInput\UserInput\bin\Debug\netcoreapp2.0\UserInput.runtimeconfig.json
+C:\GitHub\TestDome\UserInput\UserInput\bin\Debug\netcoreapp2.0\UserInput.runtimeconfig.dev.json
+C:\GitHub\TestDome\UserInput\UserInput\bin\Debug\netcoreapp2.0\UserInput.dll
+C:\GitHub\TestDome\UserInput\UserInput\bin\Debug\netcoreapp2.0\UserInput.pdb
+C:\GitHub\TestDome\UserInput\UserInput\obj\Debug\netcoreapp2.0\UserInput.csprojResolveAssemblyReference.cache
+C:\GitHub\TestDome\UserInput\UserInput\obj\Debug\netcoreapp2.0\UserInput.csproj.CoreCompileInputs.cache
+C:\GitHub\TestDome\UserInput\UserInput\obj\Debug\netcoreapp2.0\UserInput.AssemblyInfoInputs.cache
+C:\GitHub\TestDome\UserInput\UserInput\obj\Debug\netcoreapp2.0\UserInput.AssemblyInfo.cs
+C:\GitHub\TestDome\UserInput\UserInput\obj\Debug\netcoreapp2.0\UserInput.dll
+C:\GitHub\TestDome\UserInput\UserInput\obj\Debug\netcoreapp2.0\UserInput.pdb
