@@ -1,0 +1,11 @@
+C:\GitHub\TestDome\TrainComposition\TrainComposition\obj\Debug\netcoreapp2.0\TrainComposition.csprojResolveAssemblyReference.cache
+C:\GitHub\TestDome\TrainComposition\TrainComposition\obj\Debug\netcoreapp2.0\TrainComposition.csproj.CoreCompileInputs.cache
+C:\GitHub\TestDome\TrainComposition\TrainComposition\obj\Debug\netcoreapp2.0\TrainComposition.AssemblyInfoInputs.cache
+C:\GitHub\TestDome\TrainComposition\TrainComposition\obj\Debug\netcoreapp2.0\TrainComposition.AssemblyInfo.cs
+C:\GitHub\TestDome\TrainComposition\TrainComposition\bin\Debug\netcoreapp2.0\TrainComposition.deps.json
+C:\GitHub\TestDome\TrainComposition\TrainComposition\bin\Debug\netcoreapp2.0\TrainComposition.runtimeconfig.json
+C:\GitHub\TestDome\TrainComposition\TrainComposition\bin\Debug\netcoreapp2.0\TrainComposition.runtimeconfig.dev.json
+C:\GitHub\TestDome\TrainComposition\TrainComposition\bin\Debug\netcoreapp2.0\TrainComposition.dll
+C:\GitHub\TestDome\TrainComposition\TrainComposition\bin\Debug\netcoreapp2.0\TrainComposition.pdb
+C:\GitHub\TestDome\TrainComposition\TrainComposition\obj\Debug\netcoreapp2.0\TrainComposition.dll
+C:\GitHub\TestDome\TrainComposition\TrainComposition\obj\Debug\netcoreapp2.0\TrainComposition.pdb
